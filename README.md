@@ -58,6 +58,8 @@ Ce projet montre la création d'un **réseau d'entreprise** avec **segmentation 
 --- 
 
 ## Tests & Vérifications
+<img width="1918" height="1030" alt="DHCP PING" src="https://github.com/user-attachments/assets/669592c1-ec3a-4364-810c-371309b25804" />
+<img width="1919" height="1030" alt="Configuration_des_VLANs" src="https://github.com/user-attachments/assets/42010ee6-a2cb-40c7-a4da-f9ab574c8d52" />
 
 - **Binding DHCP** :
   - Vérification que les PC reçoivent les adresses IP des pools DHCP du routeur.
