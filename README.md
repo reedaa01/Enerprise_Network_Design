@@ -6,6 +6,7 @@ Ce projet montre la création d'un **réseau d'entreprise** avec **segmentation 
 ---
 
 ## Topologie
+<img width="1513" height="1030" alt="image" src="https://github.com/user-attachments/assets/3f4199ea-82e2-4970-9153-221798c83a99" />
 
 - **VLANs**:
   - VLAN 10: Marketing
@@ -54,7 +55,7 @@ Ce projet montre la création d'un **réseau d'entreprise** avec **segmentation 
 - NAT Overload (PAT) a été correctement configuré et testé pour la simulation de l'accès à Internet.
 - Les ACLs ont été utilisées pour bloquer l'accès non autorisé entre certains VLANs.
 
----
+--- 
 
 ## Tests & Vérifications
 
